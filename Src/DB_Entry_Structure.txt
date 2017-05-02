@@ -1,0 +1,8 @@
+JSON Database entry fields:
+
+file{
+	name: myfile.png
+	location/URL: *firebase-generated URL*
+	upvotes: 0
+	owner: nikola
+}
