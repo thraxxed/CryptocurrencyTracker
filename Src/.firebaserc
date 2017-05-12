@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "FTest": "atheneum-test",
+    "default": "atheneum-test"
+  }
+}
